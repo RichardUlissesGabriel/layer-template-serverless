@@ -1,0 +1,9 @@
+{
+  "name": "middy-dependencies-layer",
+  "version": "1.0.0",
+  "description": "Conteúdo do projeto que será disponibilizado na AWS",
+  "main": "handler.js",
+  "author": "Richard Ulisses Gabriel",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,8 @@
+{
+  "name": "layer-template-serverless",
+  "version": "1.0.0",
+  "description": "Projeto utilizado como base para a criação de layers",
+  "main": "middy/handler.js",
+  "author": "Richard Ulisses Gabriel",
+  "license": "MIT"
+}
